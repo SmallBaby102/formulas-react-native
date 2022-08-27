@@ -1,0 +1,127 @@
+{
+  Category: {
+    Math: [
+      {
+        name: "Sum",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Subtract",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Multiply",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Divide",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Pow",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      }
+    ],
+    Text: [
+      {
+        name: "Len",
+        params: [
+          ""
+        ],
+        type: "default"
+      },
+      {
+        name: "Upper",
+        params: [
+          ""
+        ],
+        type: "default"
+      },
+      {
+        name: "Trim",
+        params: [
+          ""
+        ],
+        type: "default"
+      }
+    ],
+    Array: [
+      {
+        name: "Max",
+        params: [
+          ""
+        ],
+        type: "default"
+      },
+      {
+        name: "Min",
+        params: [
+          ""
+        ],
+        type: "default"
+      },
+      {
+        name: "Sort",
+        params: [
+          ""
+        ],
+        type: "default"
+      }
+    ],
+    Logistics: [
+      {
+        name: "Trim",
+        params: [
+          ""
+        ],
+        type: "default"
+      }
+    ],
+    Statistic: [
+      {
+        name: "Average",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Max",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      },
+      {
+        name: "Min",
+        params: [
+          "",
+          ""
+        ],
+        type: "numeric"
+      }
+    ]
+  }
+}
